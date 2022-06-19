@@ -1,6 +1,8 @@
 # 二次元表情包搜集计划
 
 **Working in Progress**
+1. 70% golang生成预览图程序, 地址: [https://github.com/Ziqi-Yang/SPPIG](https://github.com/Ziqi-Yang/SPPIG)
+2. 50% python动漫表情包爬虫
 
 
 作为一名吱声二次元玩家，怎么能够少的了二次元表情包呢？  
