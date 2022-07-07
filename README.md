@@ -1,5 +1,7 @@
 # 二次元表情包搜集计划
 
+2022/07/07 准备算法比赛，暂时搁置
+
 **Working in Progress**
 1. 70% golang生成预览图程序, 地址: [https://github.com/Ziqi-Yang/SPPIG](https://github.com/Ziqi-Yang/SPPIG)
 2. 50% python动漫表情包爬虫
@@ -14,7 +16,7 @@
 
 ## TODO
 
-- [ ] 网站, 后期网站将具有按标签分类功能
+- [ ] 网站
 - [ ] app
 
 
